@@ -21,6 +21,8 @@ Description of Internship 1.
 
 ## Other Certificates
 
-- [Internship 1](internship1.pdf)
-  ![Internship 1 Preview](images/internship1_thumbnail.png)
-  Description of Internship 1.
+![Internship 1 Preview](images/internship1_thumbnail.png)
+
+![Internship 1 Preview](https://file+.vscode-resource.vscode-cdn.net/Users/shreyuu/Library/Mobile%20Documents/com~apple~CloudDocs/git-repos/certificates/images/internship1_thumbnail.png)
+
+![Internship 1 Preview](https://file+.vscode-resource.vscode-cdn.net/Users/shreyuu/Library/Mobile%20Documents/com~apple~CloudDocs/git-repos/certificates/images/internship1_thumbnail.png)
