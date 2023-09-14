@@ -2,7 +2,7 @@
 
 ## Certificates
 
-- [Python Basic](1688928201188.pdf)
+- [Python Basic](image/1688928201188.png)
   ![Certificate 1 Preview](images/certificate1_thumbnail.png)
   Description of Certificate 1.
 - [Certificate 2](certificate2.pdf)
