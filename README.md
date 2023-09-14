@@ -21,8 +21,8 @@ Description of Internship 1.
 
 ## Other Certificates
 
-![Internship 1 Preview](images/internship1_thumbnail.png)
+![Internship 1 Preview](image/Siem_project_competition.png)
 
-![Internship 1 Preview](https://file+.vscode-resource.vscode-cdn.net/Users/shreyuu/Library/Mobile%20Documents/com~apple~CloudDocs/git-repos/certificates/images/internship1_thumbnail.png)
+![Internship 1 Preview](image/Insight_project_competition.png)
 
-![Internship 1 Preview](https://file+.vscode-resource.vscode-cdn.net/Users/shreyuu/Library/Mobile%20Documents/com~apple~CloudDocs/git-repos/certificates/images/internship1_thumbnail.png)
+![Internship 1 Preview](image/amrutvahini_certificate.png)
