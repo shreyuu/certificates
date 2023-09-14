@@ -14,8 +14,8 @@
 
 ## Internship Certificates
 
-- [Internship 1](pdfs/Shreyash Meshram nternship Letter.pdf)
-  ![Internship 1 Preview](image/Shreyash Meshram nternship Letter.png)
+- [Internship 1](pdfs/R3_system_internship.pdf)
+  ![Internship 1 Preview](image/R3_system_internship.png)
   Description of Internship 1.
 
 
