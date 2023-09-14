@@ -11,18 +11,21 @@
 ## Internship Certificates
 
 ![Internship 1 Preview](image/R3_system_internship.png)
-Description of Internship 1.
+
 
 ## Training Certificates
 
-- [Internship 1](internship1.pdf)
-  ![Internship 1 Preview](images/internship1_thumbnail.png)
-  Description of Internship 1.
+![Internship 1 Preview](image/quantam_learninig.png)
+
 
 ## Other Certificates
 
 ![Internship 1 Preview](image/Siem_project_competition.png)
-
 ![Internship 1 Preview](image/Insight_project_competition.png)
-
 ![Internship 1 Preview](image/amrutvahini_certificate.png)
+![Internship 1 Preview](image/IAM_infosys.png)
+![Internship 1 Preview](image/building_blog_infosys.png)
+![Internship 1 Preview](image/dbms_infosys.png)
+![Internship 1 Preview](image/java_fund_infosys.png)
+![Internship 1 Preview](image/js_infosys.png)
+![Internship 1 Preview](image/se_infosys.png)
