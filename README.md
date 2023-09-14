@@ -2,13 +2,11 @@
 
 ## Certification Cources
 
-- [](pdfs/1688928201188.pdf)
-  ![Certificate 1 Preview](image/1688928201188.png)
+![Certificate 1 Preview](image/1688928201188.png)
 
 ## Research Papers
 
-- [](pdfs/IJSDR2205094_Certificate.pdf)
-  ![Paper 1 Preview](image/IJSDR2205094_Certificate.png)
+![Paper 1 Preview](image/IJSDR2205094_Certificate.png)
 
 ## Internship Certificates
 
