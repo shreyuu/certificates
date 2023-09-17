@@ -1,28 +1,37 @@
 # My Certificates and Publications
 
 ## Certification Cources
-
-![Certificate 1 Preview](image/1688928201188.png)
+<div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/1688928201188.png" width="90%" />
+</div>
 
 ## Research Papers
-
-![Paper 1 Preview](image/IJSDR2205094_Certificate.png)
+<div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/IJSDR2205094_Certificate.png" width="90%" />
+</div>
 
 ## Internship Certificates
+<div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/R3_system_internship.png" width="90%" />
+</div>
 
-![Internship 1 Preview](image/R3_system_internship.png)
-Description of Internship 1.
 
 ## Training Certificates
+<div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/quantam_learninig.png" width="90%" />
+</div>
 
-- [Internship 1](internship1.pdf)
-  ![Internship 1 Preview](images/internship1_thumbnail.png)
-  Description of Internship 1.
 
 ## Other Certificates
+<div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Siem_project_competition.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/amrutvahini_certificate.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/IAM_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/building_blog_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/dbms_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/java_fund_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/js_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/se_infosys.png" width="20%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Insight_project_competition.png" width="20%" />
+</div>
 
-![Internship 1 Preview](image/Siem_project_competition.png)
-
-![Internship 1 Preview](image/Insight_project_competition.png)
-
-![Internship 1 Preview](image/amrutvahini_certificate.png)
