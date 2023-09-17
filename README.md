@@ -3,7 +3,7 @@
 ## Certification Cources
 <div float=left align=center>
   <img src="https://github.com/shreyuu/certificates/blob/main/image/1688928201188.png" width="40%" />
-  <img src="https://github.com/shreyuu/certificates/blob/main/image/Shreyash Meshram - keggle(Python).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Shreyash Meshram - keggle(Python).png" width="50%" />
 </div>
 
 ## Research Papers
