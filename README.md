@@ -20,12 +20,19 @@
 
 ## Training Certificates
 <div float=left align=center>
-  <img src="https://github.com/shreyuu/certificates/blob/main/image/quantam_learninig.png" width="90%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/quantam_learninig.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Billing and Cost management.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Cloud Practitioner Essentials.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Foundations Getting Started with the AWS Cloud Essentials.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Skill Builder Learner Guide.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Cloud Essentials Knowledge Badge Assessment.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Job Roles in the Cloud.png" width="40%" />
 </div>
 
 
 ## Other Certificates
 <div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/quiz competition.png" width="20%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/Siem_project_competition.png" width="20%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/amrutvahini_certificate.png" width="20%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/IAM_infosys.png" width="20%" />
