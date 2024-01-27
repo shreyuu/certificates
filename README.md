@@ -8,9 +8,8 @@
   <img src="https://github.com/shreyuu/certificates/blob/main/image/javascript(basic).png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/problem_solving(basic).png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/css(basic).png" width="40%" />
-  <img src="https://github.com/shreyuu/certificates/blob/main/image/git.png" width="40%" />
-  <img src="https://github.com/shreyuu/certificates/blob/main/image/Python(kaggle).png" width="50%" />
-  <img src="https://github.com/shreyuu/certificates/blob/main/image/Intro_to_Programming(kaggle).png" width="50%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Python(kaggle).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Intro_to_Programming(kaggle).png" width="40%" />
 </div>
 
 ## Research Papers
@@ -27,6 +26,7 @@
 ## Training Certificates
 <div float=left align=center>
   <img src="https://github.com/shreyuu/certificates/blob/main/image/quantam_learninig.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/git.png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Billing and Cost management.png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Cloud Practitioner Essentials.png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/AWS Foundations Getting Started with the AWS Cloud Essentials.png" width="40%" />
