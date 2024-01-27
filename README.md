@@ -2,7 +2,13 @@
 
 ## Certification Cources
 <div float=left align=center>
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/Cloud Practitioner Essentials.png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/1688928201188.png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/java(baisc).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/javascript(basic).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/problem_solving(basic).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/css(basic).png" width="40%" />
+  <img src="https://github.com/shreyuu/certificates/blob/main/image/git.png" width="40%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/Python(kaggle).png" width="50%" />
   <img src="https://github.com/shreyuu/certificates/blob/main/image/Intro_to_Programming(kaggle).png" width="50%" />
 </div>
